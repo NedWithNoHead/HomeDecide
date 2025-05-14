@@ -1,0 +1,41 @@
+city,bedrooms,average_rent
+Vancouver,1,2623
+Vancouver,2,2829
+Vancouver,3,3490
+Vancouver,4,3937
+Toronto,1,2071
+Toronto,2,3089
+Toronto,3,3821
+Toronto,4,4296
+Montreal,1,1269
+Montreal,2,1631
+Montreal,3,2418
+Montreal,4,3221
+Calgary,1,1326
+Calgary,2,1860
+Calgary,3,2390
+Calgary,4,2920
+Edmonton,1,1249
+Edmonton,2,1822
+Edmonton,3,2567
+Edmonton,4,2868
+Ottawa,1,1398
+Ottawa,2,2215
+Ottawa,3,2743
+Ottawa,4,3592
+Winnipeg,1,1070
+Winnipeg,2,1823
+Winnipeg,3,2405
+Winnipeg,4,2877
+Quebec City,1,914
+Quebec City,2,1473
+Quebec City,3,2031
+Quebec City,4,2999
+Hamilton,1,1437
+Hamilton,2,2050
+Hamilton,3,2665
+Hamilton,4,2901
+Victoria,1,1767
+Victoria,2,2313
+Victoria,3,3232
+Victoria,4,3426
